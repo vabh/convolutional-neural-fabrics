@@ -7,4 +7,4 @@ python neural_fabric.py --dataset cifar10 --save fabric_cifar10
 
 Test set accuracy: 7.2%, with rotation and translation augmented training data.
 
-!(img/fabric.svg)
+<img src="./img/fabric.svg">
