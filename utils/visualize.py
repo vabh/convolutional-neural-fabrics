@@ -1,3 +1,4 @@
+# https://github.com/szagoruyko/functional-zoo/blob/master/visualize.py
 from graphviz import Digraph
 from torch.autograd import Variable
 
