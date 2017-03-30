@@ -9,6 +9,6 @@ To run on CIFAR-10:
 python neural_fabric.py --dataset cifar10 --save fabric_cifar10
 </pre>
 
-Test set accuracy: 7.2%, with rotation and translation augmented training data.
+Test set error: 7.2%, with rotation and translation augmented training data.
 
 <img src="./img/fabric.png">
